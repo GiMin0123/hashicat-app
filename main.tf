@@ -170,7 +170,7 @@ resource "null_resource" "configure-cat-app" {
       "sudo apt -y install apache2",
       "sudo systemctl start apache2",
       "sudo chown -R ubuntu:ubuntu /var/www/html",
-      "sudo cp /files/logo.jpeg /var/www/html/logo.jpeg",
+      "sudo cp /files/logo.jpg /var/www/html/logo.jpg",
       "chmod +x *.sh",
       "PLACEHOLDER=${var.placeholder} WIDTH=${var.width} HEIGHT=${var.height} PREFIX=${var.prefix} ./deploy_app.sh",
       "sudo apt -y install cowsay",

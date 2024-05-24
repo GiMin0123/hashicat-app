@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="/ronaldo.jpg" alt="Ronaldo Image"></img></center>
+  <center><img src="https://png.pngtree.com/background/20230627/original/pngtree-a-yellow-chick-brought-to-life-through-3d-rendering-picture-image_4072630.jpg" alt="Ronaldo Image"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Innovate of ACME
   <!-- END -->

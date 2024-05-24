@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="/logo.jpg" alt="Team Image" height="400" width="400"></img></center>
+  <center><img src="https://github.com/GiMin0123/Spring_Core/blob/main/logo.jpeg" alt="Team Image" height="400" width="400"></img></center>
   <center><h2>Team SWEAT</h2></center>
   <center><h2>Welcome to Team Sweat's app.</h2></center>
   <!-- END -->

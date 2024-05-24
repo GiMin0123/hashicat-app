@@ -47,6 +47,6 @@ variable "width" {
 }
 
 variable "placeholder" {
-  default     = "lh4.googleusercontent.com/proxy/NdFbPrPkG1hLsMdq-cul_WBQRJHJvQiRkow1j3C3UyYIuMyO5MWQpQmpeyrGNhtcPfLlf-OCELaWwFaO1wJy"
+  default     = "placekitten.com"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }
